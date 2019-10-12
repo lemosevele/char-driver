@@ -1,1 +1,1 @@
-obj-m := evele_driver.o
+obj-m := char_driver.o
