@@ -18,4 +18,6 @@ cat /dev/char_driver
 
 echo "test" > /dev/char_driver
 
+cat /dev/char_driver
+
 sudo rmmod char_driver
